@@ -14,6 +14,7 @@
   Add another method to the cashRegister object which is called orderFalafel and handles ordering a falafel, in the same way as ordering a burger.
 */
 
+
 const MENU = {
   burger: 6.5,
   falafel: 7.25,

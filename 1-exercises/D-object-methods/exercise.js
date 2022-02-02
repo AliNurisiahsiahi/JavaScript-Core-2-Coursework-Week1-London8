@@ -13,6 +13,7 @@ let student = {
 
 student.getName("Daniel");
 
+
 /* EXPECTED RESULT
 
   Student name: Daniel

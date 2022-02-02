@@ -35,4 +35,5 @@ let myPet = {
   },
 };
 
+
 console.log(myPet.getName());

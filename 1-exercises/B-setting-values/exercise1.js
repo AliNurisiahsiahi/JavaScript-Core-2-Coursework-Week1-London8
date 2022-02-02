@@ -29,6 +29,7 @@ console.log(capitalCities);
 /* EXPECTED RESULT
 
   {
+    
     UnitedKingdom: { name: "London", population: 8980000 },
     China: { name: "Beijing", population: 21500000 },
     Peru: { name: "Lima", population: 9750000 }

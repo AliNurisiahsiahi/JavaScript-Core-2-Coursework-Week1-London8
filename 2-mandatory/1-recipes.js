@@ -12,6 +12,7 @@
 
   On separate lines (one console.log statement for each), log the recipe information so it looks like:
 
+  
   Mole
   Serves: 2
   Ingredients:

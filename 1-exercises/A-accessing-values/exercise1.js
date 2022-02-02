@@ -4,6 +4,7 @@
   What is the type of each property?
 */
 
+
 let dog = {
   breed: "Dalmatian",
   name: "Spot",

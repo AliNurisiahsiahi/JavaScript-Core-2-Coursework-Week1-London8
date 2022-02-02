@@ -15,6 +15,7 @@ let student = {
     - Set the value of attendance to 90
 */
 
+
 // write code here
 
 /*
